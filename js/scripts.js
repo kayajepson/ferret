@@ -12,4 +12,9 @@ $(document).ready(function() {
     $("h1").removeClass();
     $("h1").addClass("blue-text");
   });
+
+  $(".clickable").click(function() {
+    $(".onClick").addClass("border");
+
+});
 });

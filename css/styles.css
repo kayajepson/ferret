@@ -50,3 +50,12 @@ p{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.dark-background {
+  background-color: slategrey;
+
+}
+
+.light-text {
+  color: white;
+}

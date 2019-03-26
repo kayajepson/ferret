@@ -59,3 +59,11 @@ p{
 .light-text {
   color: white;
 }
+
+.light-background {
+  background-color: skyblue;
+}
+
+.light-text {
+  color: blue;
+}
